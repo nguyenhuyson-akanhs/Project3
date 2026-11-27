@@ -1,0 +1,1 @@
+Project này được em hướng tới việc sử dụng thành thạo unity dots, nhưng sau khi thông báo về unity 7 sẽ cải thiện dots để trở nên thân thiện và tăng hiệu năng của gameobject truyền thống thì em đã tạm dừng làm việc với unity dots.
